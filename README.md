@@ -14,8 +14,6 @@
 ## • A case study (region of interest): 
 
 ## • Aim and objectives:
-The aim of this project is to identify and demonstrate suitable areas for the installation of mobile GSM base stations to replace damaged base stations in order to prevent communication disruptions caused by earthquakes as quickly as possible. 
-
 
 
 ## • Requirements:
